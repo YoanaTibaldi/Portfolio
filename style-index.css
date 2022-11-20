@@ -4,18 +4,8 @@ body{
     
 }
 
-/* .logo{
-    display: flex;
-} */
 
-/* .logo h4{
-    position: relative;
-    top: 40px;
-    font-size: 20px;
-    font-family: 'Aleo', serif ;
-} */
-
-.logo-img{
+.logo-imgage{
     width: 250px;
     display: block;
     margin: auto;
